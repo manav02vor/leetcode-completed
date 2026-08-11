@@ -1,43 +1,26 @@
 <div align="center">
 
-<h1>⚡ LeetCode Solutions</h1>
-<p><em>Automatically synced with every accepted submission</em></p>
+# 🌈 My LeetCode Journey 🚀
 
-![Problems](https://img.shields.io/badge/Total%20Solved-1-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/Easy-1-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/Medium-0-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/Hard-0-ef4743?style=for-the-badge&labelColor=1a1a2e)
+### ✨ 2 Problems Conquered! ✨
 
-![Updated](https://img.shields.io/badge/Last%20Updated-2026-08-11-0984e3?style=flat-square&labelColor=1a1a2e) ![Auto](https://img.shields.io/badge/Auto--Synced%20by-LeetSync-ffa116?style=flat-square&logo=google-chrome&logoColor=white)
+![](https://img.shields.io/badge/🟢_Easy-2-00b894?style=for-the-badge) ![](https://img.shields.io/badge/🟡_Medium-0-fdcb6e?style=for-the-badge) ![](https://img.shields.io/badge/🔴_Hard-0-e17055?style=for-the-badge)
 
 </div>
 
----
+## 🎮 Progress
 
-## 📊 Progress Dashboard
+| 🏆 Milestone | Status |
+|---|---|
+| First 10 | ⏳ 2/10 |
+| First 25 | ⏳ 2/25 |
+| First 50 | ⏳ 2/50 |
+| First 100 | ⏳ 2/100 |
+| First 200 | ⏳ 2/200 |
 
-```
-  Total Solved      1  █
+## 💻 Languages
 
-  🟢 Easy          1  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
-  🟡 Medium        0  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0%
-  🔴 Hard          0  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0%
-```
-
-## 🛠️ Languages Used
-
-```
-  Java             1  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
-```
-
-## 🎯 Quick Stats
-
-| 📈 Stat | Value |
-|---------|-------|
-| Total Solved | **1** |
-| Easy | 🟢 1 |
-| Medium | 🟡 0 |
-| Hard | 🔴 0 |
-| Languages | Java |
-| Last Solved | Lemonade Change |
-| Last Push | 2026-08-11 |
+- **Java**: 2 solutions (100%) 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 ---
 
@@ -45,6 +28,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|---------|:----------:|:--------:|:----:|
+| 561 | [Array Partition](problems/0561-Array-Partition) | 🟢 Easy | `Java` | 2026-08-11 |
 | 860 | [Lemonade Change](problems/0860-Lemonade-Change) | 🟢 Easy | `Java` | 2026-08-11 |
 
 ---
