@@ -1,6 +1,6 @@
 # LeetCode
 
-6 solutions. Updated 2026-08-19.
+7 solutions. Updated 2026-08-26.
 
 ## 📚 All Solutions
 
@@ -11,6 +11,7 @@
 | 860 | [Lemonade Change](problems/0860-Lemonade-Change) | 🟢 Easy | `Java` | 2026-08-11 |
 | 1005 | [Maximize Sum Of Array After K Negations](problems/1005-Maximize-Sum-Of-Array-After-K-Negations) | 🟢 Easy | `Java` | 2026-08-12 |
 | 1480 | [Running Sum of 1d Array](problems/1480-Running-Sum-of-1d-Array) | 🟢 Easy | `Java` | 2026-08-19 |
+| 1672 | [Richest Customer Wealth](problems/1672-Richest-Customer-Wealth) | 🟢 Easy | `Java` | 2026-08-26 |
 | 3074 | [Apple Redistribution into Boxes](problems/3074-Apple-Redistribution-into-Boxes) | 🟢 Easy | `Java` | 2026-08-12 |
 
 
