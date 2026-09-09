@@ -1,0 +1,109 @@
+{
+  "v": 1,
+  "updatedAt": 1788944294661,
+  "devices": {
+    "291c0885-4d15-4f28-8b57-5f75740c1adc": {
+      "lastSeen": 1788944293376
+    }
+  },
+  "problems": {
+    "485": {
+      "bestMemory": "52.6 MB (Beats 47%)",
+      "bestRuntime": "2 ms (Beats 98%)",
+      "date": "2026-08-19",
+      "difficulty": "Easy",
+      "folderName": "0485-Max-Consecutive-Ones",
+      "language": "Java",
+      "number": 485,
+      "solutionCount": 3,
+      "title": "Max Consecutive Ones",
+      "at": 1788944293376
+    },
+    "561": {
+      "bestMemory": "49.5 MB (Beats 87%)",
+      "bestRuntime": "17 ms (Beats 81%)",
+      "date": "2026-08-11",
+      "difficulty": "Easy",
+      "folderName": "0561-Array-Partition",
+      "language": "Java",
+      "number": 561,
+      "solutionCount": 1,
+      "title": "Array Partition",
+      "at": 1788944293376
+    },
+    "860": {
+      "bestMemory": "72.3 MB (Beats 86%)",
+      "bestRuntime": "2 ms (Beats 98%)",
+      "date": "2026-08-11",
+      "difficulty": "Easy",
+      "folderName": "0860-Lemonade-Change",
+      "language": "Java",
+      "number": 860,
+      "solutionCount": 1,
+      "title": "Lemonade Change",
+      "at": 1788944293376
+    },
+    "1005": {
+      "bestMemory": "44.7 MB (Beats 28%)",
+      "bestRuntime": "6 ms (Beats 82%)",
+      "date": "2026-08-12",
+      "difficulty": "Easy",
+      "folderName": "1005-Maximize-Sum-Of-Array-After-K-Negations",
+      "language": "Java",
+      "number": 1005,
+      "solutionCount": 1,
+      "title": "Maximize Sum Of Array After K Negations",
+      "at": 1788944293376
+    },
+    "1480": {
+      "bestMemory": "44.2 MB (Beats 73%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-08-19",
+      "difficulty": "Easy",
+      "folderName": "1480-Running-Sum-of-1d-Array",
+      "language": "Java",
+      "number": 1480,
+      "solutionCount": 1,
+      "title": "Running Sum of 1d Array",
+      "at": 1788944293376
+    },
+    "1672": {
+      "bestMemory": "44.6 MB (Beats 56%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-08-26",
+      "difficulty": "Easy",
+      "folderName": "1672-Richest-Customer-Wealth",
+      "language": "Java",
+      "number": 1672,
+      "solutionCount": 1,
+      "title": "Richest Customer Wealth",
+      "at": 1788944293376
+    },
+    "3074": {
+      "bestMemory": "44.5 MB (Beats 44%)",
+      "bestRuntime": "5 ms (Beats 32%)",
+      "date": "2026-08-12",
+      "difficulty": "Easy",
+      "folderName": "3074-Apple-Redistribution-into-Boxes",
+      "language": "Java",
+      "number": 3074,
+      "solutionCount": 1,
+      "title": "Apple Redistribution into Boxes",
+      "at": 1788944293376
+    }
+  },
+  "achievements": {
+    "first_blood": 1786432492378
+  },
+  "sheets": {},
+  "days": [
+    "2026-08-11",
+    "2026-08-12",
+    "2026-08-19",
+    "2026-08-26"
+  ],
+  "bests": {
+    "longestStreak": 2,
+    "pushes": 9
+  }
+}
