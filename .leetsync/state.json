@@ -1,7 +1,10 @@
 {
   "v": 1,
-  "updatedAt": 1789537313473,
+  "updatedAt": 1789537399541,
   "devices": {
+    "45979c12-233b-4a9c-96a3-6a9b499f6efb": {
+      "lastSeen": 1789537398896
+    },
     "291c0885-4d15-4f28-8b57-5f75740c1adc": {
       "lastSeen": 1789537312603
     }
@@ -29,7 +32,7 @@
       "number": 561,
       "solutionCount": 1,
       "title": "Array Partition",
-      "at": 1789537312603
+      "at": 1789537398896
     },
     "860": {
       "bestMemory": "72.3 MB (Beats 86%)",
@@ -41,7 +44,7 @@
       "number": 860,
       "solutionCount": 1,
       "title": "Lemonade Change",
-      "at": 1789537312603
+      "at": 1789537398896
     },
     "1005": {
       "bestMemory": "44.7 MB (Beats 28%)",
@@ -53,7 +56,7 @@
       "number": 1005,
       "solutionCount": 1,
       "title": "Maximize Sum Of Array After K Negations",
-      "at": 1789537312603
+      "at": 1789537398896
     },
     "1480": {
       "bestMemory": "44.2 MB (Beats 73%)",
@@ -89,7 +92,7 @@
       "number": 3074,
       "solutionCount": 1,
       "title": "Apple Redistribution into Boxes",
-      "at": 1789537312603
+      "at": 1789537398896
     }
   },
   "achievements": {
