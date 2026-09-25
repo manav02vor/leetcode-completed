@@ -31,7 +31,7 @@
 |:---:|:--------|:----------:|:--------:|:----:|
 | 485 | [Max Consecutive Ones](problems/0485-Max-Consecutive-Ones) | 🟩 Easy | `Java` | 2026-08-19 |
 | 561 | [Array Partition](problems/0561-Array-Partition) | 🟩 Easy | `Java` | 2026-08-11 |
-| 686 | [Repeated String Match](problems/0686-Repeated-String-Match) | 🟧 Medium | `Java` | 2026-09-24 |
+| 686 | [Repeated String Match](problems/0686-Repeated-String-Match) | 🟧 Medium | `Java` | 2026-09-25 |
 | 860 | [Lemonade Change](problems/0860-Lemonade-Change) | 🟩 Easy | `Java` | 2026-08-11 |
 | 1005 | [Maximize Sum Of Array After K Negations](problems/1005-Maximize-Sum-Of-Array-After-K-Negations) | 🟩 Easy | `Java` | 2026-08-12 |
 | 1480 | [Running Sum of 1d Array](problems/1480-Running-Sum-of-1d-Array) | 🟩 Easy | `Java` | 2026-08-19 |
