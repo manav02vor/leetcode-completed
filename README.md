@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-8%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-7%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-1%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-9%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-8%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-1%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -36,6 +36,7 @@
 | 1005 | [Maximize Sum Of Array After K Negations](problems/1005-Maximize-Sum-Of-Array-After-K-Negations) | 🟩 Easy | `Java` | 2026-08-12 |
 | 1480 | [Running Sum of 1d Array](problems/1480-Running-Sum-of-1d-Array) | 🟩 Easy | `Java` | 2026-08-19 |
 | 1672 | [Richest Customer Wealth](problems/1672-Richest-Customer-Wealth) | 🟩 Easy | `Java` | 2026-08-26 |
+| 2073 | [Time Needed to Buy Tickets](problems/2073-Time-Needed-to-Buy-Tickets) | 🟩 Easy | `Java` | 2026-10-05 |
 | 3074 | [Apple Redistribution into Boxes](problems/3074-Apple-Redistribution-into-Boxes) | 🟩 Easy | `Java` | 2026-08-12 |
 
 ---
